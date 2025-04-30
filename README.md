@@ -1,5 +1,5 @@
 # securesite
-A secure PHP-based login system featuring session management, prepared statements, XSS and CSRF protection, rate limiting, 2FA, and timeout handling. Built from scratch using class materials. Detailed documentations are provided in the seurity documentation.
+A secure PHP-based login system featuring session management, prepared statements, XSS and CSRF protection, rate limiting, 2FA, and timeout handling. Detailed documentations are provided in the seurity documentation.
 
 # Setup
 
